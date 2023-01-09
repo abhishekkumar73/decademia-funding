@@ -1,2 +1,2 @@
 ## Decademia is a marketplace for funding, collaborating, and transacting early-stage scientific research. Researchers get to present their research projects, find investors and collaborators and advance their research projects. New scientific research projects seeking funding for their research goals are exposed to investors and funds. Decademia platform infrastructure is built on Polygon enabling researchers and investors full access to the DeFi ecosystem. With the intellectual property NFT (IP-NFT), it enables anybody to share ownership on research projects as well as future outcomes such as IP, royalty rights, data and much more.
-## Website:- https://decademia-r923mws5w-decademia.vercel.app/
+## Website:- https://decademia-ud.vercel.app/
